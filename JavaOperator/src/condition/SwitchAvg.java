@@ -1,7 +1,11 @@
 package condition;
 
 import java.util.Scanner;
-
+/*
+ * @ Date : 2015.07.10
+ * @ Author : me
+ * @ Story : switch 예제(합격여부 구하기)
+ * */
 public class SwitchAvg {
 	public void calc() {
 		// 선언부

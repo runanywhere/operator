@@ -1,7 +1,11 @@
 package condition;
 
 import java.util.Scanner;
-
+/*
+ * @ Date : 2015.07.10
+ * @ Author : me
+ * @ Story : if-else 예제(큰 수 구하기)
+ * */
 public class BigNumber {
 	public static void main(String[] args) {
 		/*
